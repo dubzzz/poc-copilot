@@ -1,7 +1,7 @@
 /**
- * Counts the number of 'a' characters in a string
+ * Counts the number of lowercase 'a' characters in a string (case-sensitive)
  * @param {string} str - The input string to search
- * @returns {number} The count of 'a' characters
+ * @returns {number} The count of lowercase 'a' characters
  */
 function bonjourCountA(str) {
   let count = 0;
